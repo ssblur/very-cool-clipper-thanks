@@ -18,3 +18,11 @@ While DaVinci resolve is open, and the movie clips you want to chop are in your 
 `python script.py`
 
 That's it. 
+
+## License
+
+[WTFPL](LICENSE)
+
+Okay actually, one update, I forgot I have to license everything now.
+
+This project utilizes the [WTFPL](http://www.wtfpl.net/). Do anything you like with it. Seriously.
